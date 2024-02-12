@@ -1,4 +1,4 @@
-# Wrappe365
+# Wrapped365
 
 This project provides Spotify users a dashboard that mimics Spotify's end-of-year Wrapped stats.
 
